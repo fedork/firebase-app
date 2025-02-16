@@ -1,0 +1,16 @@
+node_modules/
+.angular/cache/19.1.7/tetris/.tsbuildinfo
+.angular/cache/19.1.7/tetris/vite/deps/_metadata.json
+.angular/cache/19.1.7/tetris/vite/deps/@angular_core.js
+.angular/cache/19.1.7/tetris/vite/deps/@angular_core.js.map
+.angular/cache/19.1.7/tetris/vite/deps/@angular_platform-browser.js
+.angular/cache/19.1.7/tetris/vite/deps/@angular_platform-browser.js.map
+.angular/cache/19.1.7/tetris/vite/deps/@angular_router.js
+.angular/cache/19.1.7/tetris/vite/deps/@angular_router.js.map
+.angular/cache/19.1.7/tetris/vite/deps/chunk-N7MHBX4T.js
+.angular/cache/19.1.7/tetris/vite/deps/chunk-N7MHBX4T.js.map
+.angular/cache/19.1.7/tetris/vite/deps/chunk-NBQSA3VV.js
+.angular/cache/19.1.7/tetris/vite/deps/chunk-NBQSA3VV.js.map
+.angular/cache/19.1.7/tetris/vite/deps/package.json
+.angular/cache/19.1.7/tetris/vite/deps_ssr/_metadata.json
+.angular/cache/19.1.7/tetris/vite/deps_ssr/package.json
